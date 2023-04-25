@@ -7,7 +7,7 @@
 
 Languages and Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
-[![My Skills](https://user-images.githubusercontent.com/115616454/234381471-355c755a-679e-4274-963d-da6d62480dbf.png | width=10)](https://www.mathworks.com/)
+[![My Skills](https://user-images.githubusercontent.com/115616454/234381471-355c755a-679e-4274-963d-da6d62480dbf.png =250x250)](https://www.mathworks.com/)
 
 
 

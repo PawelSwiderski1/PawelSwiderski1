@@ -6,8 +6,9 @@
 - :mailbox_closed: You can reach me at: pawel.m.swiderski@gmail.com
 
 Languages and Tools: \
-[![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
 <img src="https://user-images.githubusercontent.com/115616454/234381471-355c755a-679e-4274-963d-da6d62480dbf.png" width="48">
+[![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
+<img src="https://user-images.githubusercontent.com/115616454/234381471-355c755a-679e-4274-963d-da6d62480dbf.png" width="48">(https://www.python.org/)
 
 
 

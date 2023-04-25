@@ -6,6 +6,6 @@
 - :mailbox_closed: You can reach me at: pawel.m.swiderski@gmail.com
 
 Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,html)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,html)](https://https://www.mathworks.com/)
 
 

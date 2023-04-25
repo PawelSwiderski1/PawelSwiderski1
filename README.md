@@ -8,7 +8,7 @@
 Languages and Tools: \
 [![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
 [<img src="https://user-images.githubusercontent.com/115616454/234381471-355c755a-679e-4274-963d-da6d62480dbf.png" width="50" />](https://www.mathworks.org/)
-[<img src="https://user-images.githubusercontent.com/115616454/234384849-8c5f8be7-1bc1-475d-8cd1-e55af231cccb.png" width="50" />](https://www.mathworks.org/)
+[<img src="https://user-images.githubusercontent.com/115616454/234384849-8c5f8be7-1bc1-475d-8cd1-e55af231cccb.png" height="50" />](https://www.mathworks.org/)
 
 
 
